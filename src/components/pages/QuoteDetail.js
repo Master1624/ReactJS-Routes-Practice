@@ -1,6 +1,5 @@
-import { useParams } from "react-router-dom";
+import { useParams, Route } from "react-router-dom";
 import { Fragment } from "react";
-import { Route } from "react-router-dom";
 import Comments from "../comments/Comments";
 import HighlightedQuote from '../quotes/HighlightedQuote'
 
